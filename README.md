@@ -14,13 +14,13 @@ This project aims to apply the Capital Asset Pricing Model (CAPM) to analyze and
 - Discussion of Results: Provide a comprehensive discussion of the findings, highlighting key insights and implications for investors.
 
 # Key Concepts
-- What is CAPM?
+- What is CAPM? :
 The Capital Asset Pricing Model (CAPM) is a widely used financial model that estimates the expected return on an investment based on its risk level. CAPM considers the relationship between the asset's beta, which measures its volatility compared to the overall market, and the risk-free rate of return. By incorporating these factors, CAPM provides a framework for investors to assess the appropriate compensation they should receive for taking on the investment risk.
 
-- Value at Risk (VaR)
+- Value at Risk (VaR) :
 Value at Risk (VaR) is a statistical measure that estimates the potential loss in value of a portfolio under normal market conditions over a specific time period for a given confidence interval. VaR is used to assess the risk of loss in investment portfolios and to manage and control risk exposure.
 
-- Sharpe Ratio
+- Sharpe Ratio :
 The Sharpe ratio is a measure of risk-adjusted return. It is calculated by taking the difference between the portfolio's return and the risk-free rate, and then dividing this by the standard deviation of the portfolio's returns. A higher Sharpe ratio indicates better risk-adjusted returns, helping investors to understand the return of an investment compared to its risk.
 
 # Some Resources to Refer
